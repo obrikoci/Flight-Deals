@@ -43,8 +43,8 @@ class FlightSearch:
                 },
                 "passengers": [
                     {
-                        "family_name": "Earhart",
-                        "given_name": "Amelia",
+                        "family_name": "Last",
+                        "given_name": "Name",
                         "loyalty_programme_accounts": [
                             {
                                 "account_number": "12901014",
